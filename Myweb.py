@@ -25,3 +25,4 @@ async def calculate (request:Request , x: int):
             "arg":x , "add2":add2(x), "muit2":muit2(x)
         }
     )
+#000
